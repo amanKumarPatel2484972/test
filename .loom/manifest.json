@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "displayName": "test",
+  "problemStatement": "I want to build a personal expense tracker so I can categorize my spending, set monthly budgets, and see where my money goes.",
+  "stack": "Full-Stack JavaScript with React and Node.js",
+  "features": [
+    {
+      "id": "F-09",
+      "title": "User Authentication",
+      "slug": "f-09-user-authentication",
+      "addedAt": "2026-05-28T06:48:16.342Z",
+      "folder": "features/f-09-user-authentication",
+      "stack": "Full-Stack JavaScript with React and Node.js"
+    }
+  ]
+}
