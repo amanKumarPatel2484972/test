@@ -11,6 +11,14 @@
       "addedAt": "2026-06-04T06:20:12.242Z",
       "folder": "features/f-09-user-authentication",
       "stack": "Full-Stack JavaScript with React and Node.js"
+    },
+    {
+      "id": "F-06",
+      "title": "Spending Overview Dashboard",
+      "slug": "f-06-spending-overview-dashboard",
+      "addedAt": "2026-06-04T06:21:47.771Z",
+      "folder": "features/f-06-spending-overview-dashboard",
+      "stack": "Full-Stack JavaScript with React and Node.js"
     }
   ]
 }

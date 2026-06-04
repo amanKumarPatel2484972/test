@@ -6,9 +6,10 @@ Built feature-by-feature with [**AI Loom**](https://github.com/) — an AI agent
 
 **Stack:** Full-Stack JavaScript with React and Node.js
 
-## Features (1)
+## Features (2)
 
 - `F-09` [User Authentication](features/f-09-user-authentication/) — added 2026-06-04
+- `F-06` [Spending Overview Dashboard](features/f-06-spending-overview-dashboard/) — added 2026-06-04
 
 ## Structure
 
